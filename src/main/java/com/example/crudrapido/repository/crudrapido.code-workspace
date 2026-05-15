@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../jwt"
+		}
+	],
+	"settings": {
+		"chat.tools.terminal.autoApprove": {
+			".\\mvnw": true,
+			"Test-Path": true,
+			"/^powershell -NoProfile -Command \"Get-Content 'c:\\\\Users\\\\carlo\\\\Downloads\\\\crudrapido\\\\crudrapido\\\\app\\.log' -Tail 100\"$/": {
+				"approve": true,
+				"matchCommandLine": true
+			}
+		},
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
